@@ -1,6 +1,8 @@
 # Unofficial Tag
 We have added c:wool, it seems this isn't apart of the NeoForge and Fabric ModLoaders so this is an unofficial tag.
 
+The raw version is here [wool.json](https://github.com/RegressiaUK/regressia_public_plushyplus-/blob/main/wool/wool.json)
+
 ### Tag
 - **c:wool**
 - ![❓](https://raw.githubusercontent.com/TheShadowModsUK/plushyPlusWiki/refs/heads/main/readme_resourcs/white_wool.png) **minecraft:white_wool**
