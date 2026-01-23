@@ -3,3 +3,6 @@
 
 # Plushy+ - Resources
 Resources for Plushy+
+
+
+This is for both Hytale and Minecraft versions of our mods
