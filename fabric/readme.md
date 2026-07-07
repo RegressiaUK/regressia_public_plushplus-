@@ -1,5 +1,6 @@
 # Plushy+ Fabric(item) Recipe
 All recipes are the same for all colours just different wool block to return that wool blocks coloured fabric <br>
+
 <img width="252" height="131" alt="image" src="https://github.com/user-attachments/assets/ab12e1dc-1fcc-4202-9cc6-88da696056ad" />
 
 
