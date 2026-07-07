@@ -5,7 +5,7 @@ here you will find a link to each plushy and there useful information like there
 ## Plushy
 
 ### Minecraft:
-Coming Soon
+[Harold](./Harold.md)
 
 
 ### Hytale:
