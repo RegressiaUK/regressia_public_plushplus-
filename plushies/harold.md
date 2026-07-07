@@ -11,7 +11,7 @@ Plushy+ > [Plushies](./readme.md) > Harold.md
     </td>
     <td valign="top">
       <p align="center">
-              <img width="200" src="https://github.com/user-attachments/assets/31ff5d35-cfec-435b-8e07-4bc48a0f2f95" />
+              <img width="200" target="_blank"src="https://github.com/user-attachments/assets/31ff5d35-cfec-435b-8e07-4bc48a0f2f95" />
       </p>
     </td>
   </tr>
