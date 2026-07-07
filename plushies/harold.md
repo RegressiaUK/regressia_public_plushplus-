@@ -28,7 +28,7 @@
     </td>
     <td valign="top">
 <img width="502" height="256" alt="image" src="https://github.com/user-attachments/assets/64ae8aaa-1d82-493f-884b-9b5d44c753cf" />
-       Fabric Recipe <a href="#">here</a>
+       Fabric Recipe <a href="./fabric/readme.md">here</a>
     </td>
   </tr>
   <tr>
