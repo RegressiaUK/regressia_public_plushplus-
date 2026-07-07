@@ -11,7 +11,7 @@ Plushy+ > [Plushies](./readme.md) > Harold.md
     </td>
     <td valign="top">
       <p align="center">
-              <img width="200" target="_blank" rel="noopener" src="https://github.com/user-attachments/assets/31ff5d35-cfec-435b-8e07-4bc48a0f2f95" />
+              <img width="200" src="https://github.com/user-attachments/assets/31ff5d35-cfec-435b-8e07-4bc48a0f2f95" />
       </p>
     </td>
   </tr>
@@ -31,7 +31,7 @@ Plushy+ > [Plushies](./readme.md) > Harold.md
     </td>
     <td valign="top">
 <img width="502" height="256" alt="image" src="https://github.com/user-attachments/assets/64ae8aaa-1d82-493f-884b-9b5d44c753cf" />
-       Fabric Recipe <a href="https://github.com/RegressiaUK/regressia_public_plushyplus-/tree/main/fabric">here</a>
+       Fabric Recipe <a href="https://github.com/RegressiaUK/regressia_public_plushyplus-/tree/main/fabric" target="_blank" rel="noopener">here</a>
     </td>
   </tr>
   <tr>
