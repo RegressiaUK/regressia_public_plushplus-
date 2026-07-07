@@ -1,6 +1,6 @@
 # Bear Plushy
 
-Plushy+ > [Plushies](./readme.md) > Harold.md
+Plushy+ > [Plushies](./readme.md) > Bear.md
 
 <table>
   <tr>
