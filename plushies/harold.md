@@ -1,4 +1,7 @@
 # Harold, The Crash Test Dummy Plushy
+
+Plushy+ > [Plushies](./readme.md) > Harold.md
+
 <table>
   <tr>
     <td valign="top">
