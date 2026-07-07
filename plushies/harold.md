@@ -19,7 +19,7 @@
         <strong>Block tag</strong>, c:plushyplus_plus/harold<br>
         <strong>Block tag</strong>, c:plushyplus_plus
       <hr>
-          <strong>Iten tag</strong>, c:plushy_doll
+          <strong>Iten tag</strong>, c:plushy_doll<br><br>
     </td>
   </tr>
   <tr>
