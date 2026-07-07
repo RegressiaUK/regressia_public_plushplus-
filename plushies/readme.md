@@ -5,7 +5,8 @@ here you will find a link to each plushy and there useful information like there
 ## Plushy
 
 ### Minecraft:
-[Harold](./harold.md)
+[Harold](./harold.md) <br>
+[Bear](./bear.md)
 
 
 ### Hytale:
