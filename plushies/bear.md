@@ -24,7 +24,7 @@ Plushy+ > [Plushies](./readme.md) > Bear.md
         <strong>Block tag</strong>, c:plushyplus_plus
       <hr>
           <strong>Iten tag</strong>, c:plushy_doll<br>
-          <strong>Iten tag</strong>, c:plushy_doll/bear<br><nts/assets/64ae8aaa-1d82-493f-884b-9b5d44c753cf" />br>
+          <strong>Iten tag</strong>, c:plushy_doll/bear<br><nts/assets/64ae8aaa-1d82-493f-884b-9b5d44c753cf" /><br>
     </td>
   </tr>
   <tr>
