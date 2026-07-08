@@ -48,12 +48,5 @@ Plushy+ > [Plushies](./readme.md) > cat_doll_nikko.md
 </table>
 
 <p align="center">
-    <img width="1326" height="893" alt="image" src="https://github.com/user-attachments/assets/9310f503-346a-476a-9f92-36bd381a920d" />
+    <img width="1171" height="875" alt="image" src="https://github.com/user-attachments/assets/b94a45a6-1a72-479b-8316-8a2f0dd51665" />
 </p>
-
-
-
-
-
-
-<img width="1171" height="875" alt="image" src="https://github.com/user-attachments/assets/b94a45a6-1a72-479b-8316-8a2f0dd51665" />
