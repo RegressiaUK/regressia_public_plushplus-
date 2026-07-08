@@ -5,7 +5,7 @@ Plushy+ > [Plushies](./readme.md) > gray_fox.md
 <table>
   <tr>
     <td valign="top">
-      <h1>Panda</h1>
+      <h1>Gray Fox</h1>
       <p>This is a cute gray fox for you to cuddle and be friends with, just like it's cheeky orange cousin it will always be by your side.</p>
       <p></p>
     </td>
