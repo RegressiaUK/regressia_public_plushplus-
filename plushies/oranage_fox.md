@@ -1,11 +1,11 @@
-# Ornage Fox Plushy
+# Oranage Fox Plushy
 
 Plushy+ > [Plushies](./readme.md) > orange_fox.md
 
 <table>
   <tr>
     <td valign="top">
-      <h1>Panda</h1>
+      <h1>Orange Fox</h1>
       <p>This is a cute orange fox for you to cuddle and be friends with, just like it's cheeky gray cousin it will always be by your side.</p>
       <p></p>
     </td>
