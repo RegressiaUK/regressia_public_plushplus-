@@ -30,7 +30,7 @@ here you will find a link to each plushy and there useful information like there
       10, <a href="./lilith.md">Lilith</a><br>
      </td>
      <td>
-      11, <a href="#./marcus.md">Marcus</a><br>
+      11, <a href="./marcus.md">Marcus</a><br>
       12, <a href="#./">#</a><br>
       13, <a href="#./">#</a><br>
       14, <a href="#./">#</a><br>
