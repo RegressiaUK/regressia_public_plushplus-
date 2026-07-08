@@ -9,7 +9,7 @@ Plushy+ > [Plushies](./readme.md) > lotso.md
       <p>Lotso is a old bear from the Toy Story universe, this plus might of been a groumpy old beart but we should stop giving him them plush cuddles, show hims some love.</p>
       <p><br><br><br><br></p>
       <p><strong>IP</strong>:<br>
-      &nbsp; &nbsp; &nbsp; &nbsp;The Lotso charactor is apart of the Toy Story IP what belongs to The Walt Disney Company- The Walt Disney Company [<a href="https://thewaltdisneycompany.com/" target="_blank">Here</a>]</p>
+      &nbsp; &nbsp; &nbsp; &nbsp;The Lotso character is apart of the Toy Story IP what belongs to The Walt Disney Company- The Walt Disney Company [<a href="https://thewaltdisneycompany.com/" target="_blank">Here</a>]</p>
     </td>
     <td valign="top">
       <p align="center">
