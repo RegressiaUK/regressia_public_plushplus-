@@ -7,7 +7,7 @@ Plushy+ > [Plushies](./readme.md) > cat_doll_jelly.md
     <td valign="top">
       <h1>Snoozy</h1>
       <p>Sometimes when you create things other dev's love your work, well this is what happened with <a href="https://x.com/lilredridingsim?lang=en">Little Red Riding Sim</a>, they made some really good bedroom sets for the sims
-      so I asked her if we could adapt her designs for Minecraft with her permission we was able to make our childish bedroom sets better in How We Sleep so as a thank you I created 
+      so I asked her if we could adapt her designs for Minecraft with her permission we was able to make our childish bedroom sets better in <a href="https://modrinth.com/mod/how-we-sleep">How We Sleep</a> so as a thank you I created 
       this plushy based on own childhood plush, Snoozy.</p>
       <p></p>
     </td>
