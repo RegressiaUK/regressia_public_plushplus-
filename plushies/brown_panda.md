@@ -1,6 +1,6 @@
 # Brown Panda Plushy
 
-Plushy+ > [Plushies](./readme.md) > Brown_Panda.md
+Plushy+ > [Plushies](./readme.md) > brown_panda.md
 
 <table>
   <tr>
