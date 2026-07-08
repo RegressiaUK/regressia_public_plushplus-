@@ -101,7 +101,7 @@ here you will find a link to each plushy and there useful information like there
 </p>
 
 ### Hytale:
-Coming later date
+   Might be coming at a later date
 
 
 
