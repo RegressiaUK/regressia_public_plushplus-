@@ -24,7 +24,7 @@ here you will find a link to each plushy and there useful information like there
      </td>
      <td>
       6, <a href="./polar_bear.md">Polar Bear</a><br>
-      7, <a href="#./">#</a><br>
+      7, <a href="./gray_fox.md">Gray Fox</a><br>
       8, <a href="#./">#</a><br>
       9, <a href="#./">#</a><br>
       10, <a href="#./">#</a><br>
