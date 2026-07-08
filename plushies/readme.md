@@ -34,7 +34,7 @@ here you will find a link to each plushy and there useful information like there
       12, <a href="./cat_doll_Jelly.md">Jelly</a><br>
       13, <a href="./cat_doll_niiko.md">Niiko</a><br>
       14, <a href="./dino_doll_snoozy.md">Snoozy</a><br>
-      15, <a href="#./">#</a><br>      
+      15, <a href="./dino_doll_nessy.md">Nessy</a><br>      
      </td>
      <td>
       16, <a href="#./">#</a><br>
