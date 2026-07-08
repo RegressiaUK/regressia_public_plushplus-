@@ -8,6 +8,7 @@ here you will find a link to each plushy and there useful information like there
  - [Harold](./harold.md) <br>
  - [Bear](./bear.md)
  - [Lotso](./lotso.md)
+ - [Panda](./panda.md)
 
 
 ### Hytale:
