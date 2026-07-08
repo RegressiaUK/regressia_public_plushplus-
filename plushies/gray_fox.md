@@ -27,7 +27,7 @@ Plushy+ > [Plushies](./readme.md) > gray_fox.md
   </tr>
   <tr>
     <td valign="top">
-      Recipe for Panda
+      Recipe for Gray Fox
     </td>
     <td valign="top">
       <p align="center">
