@@ -6,6 +6,10 @@ here you will find a link to each plushy and there useful information like there
 
 ### Minecraft:
 <p align="center">
+    <img width="1726" height="481" alt="image" src="https://github.com/user-attachments/assets/135ce982-640c-4335-8b04-f721f64b22c5" />
+</p>
+
+<p align="center">
  <table style="width:100%">
    <tr>
      <th style="width:20%">5</th>
